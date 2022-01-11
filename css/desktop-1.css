@@ -1,0 +1,197 @@
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1451px;
+  width: 1440px;
+}
+
+.desktop-1 .navigation {
+  align-items: flex-start;
+  background-color: #e3a96c;
+  display: flex;
+  min-width: 1440px;
+  padding: 0 42px;
+}
+
+.desktop-1 .about-me {
+  height: 75px;
+  letter-spacing: 0;
+  text-align: center;
+  width: 153px;
+}
+
+.desktop-1 .navigation-tab {
+  height: 75px;
+  letter-spacing: 0;
+  margin-left: 22px;
+  text-align: center;
+  width: 153px;
+}
+
+.desktop-1 .title {
+  color: var(--black);
+  font-family: var(--font-family-sofia);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 125px;
+  letter-spacing: 0;
+  margin-top: 23px;
+  text-align: center;
+  width: 1440px;
+}
+
+.desktop-1 .hero {
+  background-color: #313037;
+  height: 498px;
+  margin-top: 23px;
+  position: relative;
+  width: 1440px;
+}
+
+.desktop-1 .i-am {
+  height: 74px;
+  left: 123px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 119px;
+  width: 185px;
+}
+
+.desktop-1 .uxui-desginer {
+  height: 74px;
+  left: 123px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 295px;
+  width: 313px;
+}
+
+.desktop-1 .overlap-group1 {
+  height: 498px;
+  left: 123px;
+  position: absolute;
+  top: 0;
+  width: 1317px;
+}
+
+.desktop-1 .name {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 74px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 221px;
+  width: 359px;
+}
+
+.desktop-1 .mypicture {
+  height: 498px;
+  left: 332px;
+  position: absolute;
+  top: 0;
+  width: 985px;
+}
+
+.desktop-1 .footer {
+  align-items: center;
+  background-color: #313037;
+  display: flex;
+  flex-direction: column;
+  margin-top: 171px;
+  min-height: 536px;
+  padding: 38.5px 512px;
+  width: 1440px;
+}
+
+.desktop-1 .overlap-group2 {
+  height: 115px;
+  position: relative;
+  width: 214px;
+}
+
+.desktop-1 .back-to-top {
+  height: 70px;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  width: 214px;
+}
+
+.desktop-1 .text-1 {
+  height: 47px;
+  left: 86px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  transform: rotate(-90.00deg);
+}
+
+.desktop-1 .name-1 {
+  height: 29px;
+  letter-spacing: 0;
+  margin-top: 41px;
+  min-width: 102px;
+  text-align: center;
+}
+
+.desktop-1 .phone {
+  height: 29px;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 16px;
+  min-width: 171px;
+  text-align: center;
+}
+
+.desktop-1 .myemail {
+  height: 29px;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 16px;
+  min-width: 263px;
+  text-align: center;
+}
+
+.desktop-1 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 41px;
+  min-width: 266px;
+}
+
+.desktop-1 .instagram-icon {
+  height: 70px;
+  object-fit: cover;
+  width: 70px;
+}
+
+.desktop-1 .gmail-icon {
+  height: 70px;
+  margin-left: 28px;
+  object-fit: cover;
+  width: 70px;
+}
+
+.desktop-1 .linkedin-icon {
+  height: 70px;
+  margin-left: 29px;
+  object-fit: cover;
+  width: 69px;
+}
+
+.desktop-1 .copyright {
+  align-self: flex-end;
+  height: 29px;
+  letter-spacing: 0;
+  margin-top: 41px;
+  min-width: 415px;
+  text-align: center;
+}
